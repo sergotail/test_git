@@ -1,0 +1,7 @@
+// hello!
+
+<?php
+$some_vAR = "hELLO, WORLD!";
+
+echo "go! " . $some_vAR . "</br>";
+?>
